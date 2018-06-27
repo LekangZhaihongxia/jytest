@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://gl.lkyj.com.cn/app/image.png </string>
+					<string>https://raw.githubusercontent.com/LekangZhaihongxia/jytest/master/image.png </string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://gl.lkyj.com.cn/app/image@2x.png </string>
+					<string>https://raw.githubusercontent.com/LekangZhaihongxia/jytest/master/image%402x.png </string>
 				</dict>
 			</array>
 			<key>metadata</key>
